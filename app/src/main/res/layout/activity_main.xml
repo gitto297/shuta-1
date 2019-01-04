@@ -18,11 +18,4 @@
         app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@drawable/ic_logo" />
 
-    <TextView
-        android:id="@+id/tvUserName"
-        android:layout_width="225dp"
-        android:layout_height="40dp"
-        android:text="TextView"
-        tools:layout_editor_absoluteX="93dp"
-        tools:layout_editor_absoluteY="248dp" />
 </android.support.constraint.ConstraintLayout>
